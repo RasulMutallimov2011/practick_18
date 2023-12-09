@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+html,
+
+.wrapper{
+    min-height: 100%;
+}
+
+.block{
+    background-color: aqua;
+    width: 250px;
+    height: 250px;
+ border: 1px black;
+}
+
+
+.child{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    border: 1px green;
+}
